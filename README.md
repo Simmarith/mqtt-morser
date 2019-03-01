@@ -1,6 +1,6 @@
 # MQTT Morser
 
-this programm just sends messages to an mqtt server if wires are shortened. You can however extend it to your needs pretty easily.
+this programm just sends messages to an mqtt server if wires are shorted. You can however extend it to your needs pretty easily.
 
 ## Setup
 
